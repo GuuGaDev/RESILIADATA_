@@ -18,7 +18,7 @@
 ## 2. Quais são os principais campos e seus respectivos tipos?;
 * Empresa Parceira:
 
-  ID: Inteiro (Identificador único da empresa)
+  PK ID: (Identificador único da empresa)
 
   Nome: Texto (Nome da empresa)
 
@@ -29,7 +29,7 @@
 
 * Tecnologia:
 
-  ID: Inteiro (Identificador único da tecnologia)
+  PK ID: (Identificador único da tecnologia)
   
   Nome: Texto (Nome da tecnologia)
   
