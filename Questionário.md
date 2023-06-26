@@ -40,9 +40,9 @@
 
   ID: Inteiro (Identificador único da relação entre uma tecnologia utilizada e uma empresa)
   
-  ID da Empresa: Inteiro (Chave estrangeira referenciando o ID da Empresa Parceira)
+  ID : Inteiro (Chave estrangeira referenciando o ID da Empresa Parceira)
   
-  ID da Tecnologia: Inteiro (Chave estrangeira referenciando o ID da Tecnologia)
+  ID : Inteiro (Chave estrangeira referenciando o ID da Tecnologia)
 
 
 * Colaborador:
